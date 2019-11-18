@@ -5,3 +5,5 @@ When I think of an idea, I note them here to come back to at a later time.
 - Front end form for Darwin City Council StreetFood JSON
 - script to delete all unread emails in specific Gmail categories
 - chrome extension to remove channels from Youtube that keep getting recommended to me
+- Migrate StreetFood App to React and complete
+- Update Indigibot search filter, build frontend to add/remove search terms
