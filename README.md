@@ -15,5 +15,6 @@ When I think of an idea, I note them here to come back to at a later time.
 - Mod for Rebel Galaxy Outlaws to add user's own Spotify. (when they release their source code)
 - interactive CDU Campus Map with search (get Lat/Long info for each of the different colours/buildings)
 - automate Windows 10 mobile hotspot to switch on at startup
+- https://en.wikipedia.org/wiki/WebRTC chat roulette proper plugin for Wordpress
 
 - nice geojson form/frontend where a user can add in their respective details (e.g. that get saved into the properties), click on respective location and it saves to a geojson file?
