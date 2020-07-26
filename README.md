@@ -17,4 +17,5 @@ When I think of an idea, I note them here to come back to at a later time.
 - automate Windows 10 mobile hotspot to switch on at startup
 - https://en.wikipedia.org/wiki/WebRTC chat roulette proper plugin for Wordpress
 
-- nice geojson form/frontend where a user can add in their respective details (e.g. that get saved into the properties), click on respective location and it saves to a geojson file?
+## Done ##
+- nice geojson form/frontend where a user can add in their respective details (e.g. that get saved into the properties), click on respective location and it saves to a geojson file? https://github.com/MattHeffNT/GeoJSON-Form
