@@ -3,11 +3,9 @@ When I think of an idea, I note them here to come back to at a later time.
 
 ## Currently working on ##
 - Minecraft lessons
-- Red Dirt Poetry Festival 2020 (online)
 - Super Super Sounds custom tumblr Theme
 - Streetfood MVP second iteration ready for cordova
 - Update Indigibot search filter, build frontend to add/remove search terms
-
 
 ## TO DO ##
 - create the <a href = "http://nationalunitygovernment.org/pdf/aboriginal-australia-map.pdf">AIATSIS</a> map as an overlay in Leaflet
@@ -20,4 +18,5 @@ When I think of an idea, I note them here to come back to at a later time.
 - https://en.wikipedia.org/wiki/WebRTC chat roulette proper plugin for Wordpress
 
 ## Done ##
+- Red Dirt Poetry Festival 2020 (online)
 - nice geojson form/frontend where a user can add in their respective details (e.g. that get saved into the properties), click on respective location and it saves to a geojson file? https://github.com/MattHeffNT/GeoJSON-Form
