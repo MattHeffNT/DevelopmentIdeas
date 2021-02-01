@@ -4,11 +4,11 @@ When I think of an idea, I note them here to come back to at a later time.
 ## Currently working on ##
 
 - Strapi/React form/file Get/Post portal
-- Streetfood MVP second iteration ready for cordova
-
+- Create Chrome Extension to add Markdown to MS Planner
 
 ## TO DO ##
 
+- Streetfood MVP second iteration ready for cordova
 - Dictionary plugin for http://keypirinha.com (https://rapidapi.com/dpventures/api/wordsapi or Meriam API)
 - https://en.wikipedia.org/wiki/WebRTC chat roulette proper plugin for Wordpress
 - Update Indigibot search filter, build frontend to add/remove search terms
