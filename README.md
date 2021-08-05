@@ -8,6 +8,7 @@ When I think of an idea, I note them here to come back to at a later time.
 ## TO DO ##
 
 - Streetfood MVP second iteration ready for cordova
+- Med Tracker App UI design and dev
 - Dictionary plugin for http://keypirinha.com (https://rapidapi.com/dpventures/api/wordsapi or Meriam API)
 - Update Indigibot search filter, build frontend to add/remove search terms
 - Comprehensive digital safety Resource for domestic/violence victims (video + static page)
