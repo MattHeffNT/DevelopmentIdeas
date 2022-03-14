@@ -5,6 +5,7 @@ When I think of an idea, I note them here to come back to at a later time.
 - Streetfood MVP second iteration ready for cordova/react-native
 
 ## TO DO ##
+- Need to update MS Planner Chrome extension as it has stopped working (i think probably the HTML elements have changed and the script just needs to update class/id names)
 - Dictionary plugin for http://keypirinha.com (https://rapidapi.com/dpventures/api/wordsapi or Meriam API)
 - Comprehensive digital safety Resource for domestic/violence victims (video + static page)
 - Democracy app for Aus (similar to Finland concept)
