@@ -3,6 +3,8 @@ When I think of an idea, I note them here to come back to at a later time.
 
 ## Currently working on ##
 - Streetfood MVP second iteration ready for cordova/react-native
+- Strapi CMS with NextJS in Docker to create my own blog site to deploy to Azure
+- Deploy Discord bot on Azure
 
 ## TO DO ##
 - Fix some errors on skinpacker when buttons clicked numerous times
