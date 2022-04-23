@@ -11,6 +11,7 @@ When I think of an idea, I note them here to come back to at a later time.
 - Comprehensive digital safety Resource for domestic/violence victims (video + static page)
 - Democracy app for Aus (similar to Finland concept)
 - Look into whether OTTD has RTS Mod (LOL)
+- List items not working properly in MS Planner extension
 
 ## Done ##
 - Dictionary plugin for http://keypirinha.com (https://rapidapi.com/dpventures/api/wordsapi or Meriam API)
