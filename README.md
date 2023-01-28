@@ -2,18 +2,17 @@
 When I think of an idea, I note them here to come back to at a later time.
 
 ## Currently working on ##
-- Streetfood MVP second iteration ready for cordova/react-native
-- Strapi CMS with NextJS in Docker to create my own blog site to deploy to Azure
-- Deploy Discord bot on Azure
+- KatijEmoji/IndigEmoji
+- IndigEmoji - Weather App
+
 
 ## TO DO ##
-- Fix some errors on skinpacker when buttons clicked numerous times
-- Comprehensive digital safety Resource for domestic/violence victims (video + static page)
-- Democracy app for Aus (similar to Finland concept)
-- Look into whether OTTD has RTS Mod (LOL)
+- New portfolio/about me page
+- Fix some errors on skinpacker
 - List items not working properly in MS Planner extension
 
 ## Done ##
+- Discord Bot deployed on Heroku
 - Dictionary plugin for http://keypirinha.com (https://rapidapi.com/dpventures/api/wordsapi or Meriam API)
 - Need to update MS Planner Chrome extension as it has stopped working (i think probably the HTML elements have changed and the script just needs to update class/id names)
 - Update the Custom Skin Compiler for Minecraft Education Edition (so that it can upload multiple skins)
